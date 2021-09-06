@@ -1,16 +1,4 @@
-### Hola there 👋 Im Ankit joshi! 😗
-
  
-Here are some ideas to get you started:
-
-- 🔭 I’m currently something cool.😎
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more oprn source project
-- 💬 Ask me about Python, React, Algorithims, Javascript, HTML, CSS, Operating System, Computer Orgaization, Database Mangment
-- 📫 How to reach me:  Twitter @ankitjo78920304 
-- ⚡ Fun fact: When I get stuck while coding, I start seeing TMKOC�
- 
-### Connect with me:
 
  <h3 align="center"> Hi there 👋</h3>
 
@@ -21,9 +9,7 @@ I'm Ankit joshi, a self-motivated tech enthusiast.
 <h4 align="center">
 💻  | 🔭 I’m currently something cool.😎
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more oprn source project
 - 💬 Ask me about Python, React, Algorithims, Javascript, HTML, CSS, Operating System, Computer Orgaization, Database Mangment
-- 📫 How to reach me:  Twitter @ankitjo78920304 
 - ⚡ Fun fact: When I get stuck while coding, I start seeing TMKOC� | 💬 connect <a href="https://twitter.com/ankitjo78920304">@ankitjo78920304</a>
 </h4>
 <p  align="center">
