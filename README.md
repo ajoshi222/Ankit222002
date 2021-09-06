@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me:  Twitter @ankitjo78920304 
 - ⚡ Fun fact: When I get stuck while coding, I start seeing TMKOC🤣
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png
+
 
