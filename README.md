@@ -9,7 +9,7 @@ I'm Ankit joshi, a self-motivated tech enthusiast.
 💻  | 🔭 I’m currently something cool.😎
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Python, React, Algorithims, Javascript, HTML, CSS, Operating System, Computer Orgaization, Database Mangment
-- ⚡ Fun fact: When I get stuck while coding, I start seeing TMKOC� | 💬 connect <a href="https://twitter.com/ankitjo78920304">@ankitjo78920304</a>
+- ⚡ Fun fact: When I get stuck while coding, I start seeing TMKOC😜 | 💬 connect <a href="https://twitter.com/ankitjo78920304">@ankitjo78920304</a>
 </h4>
 <p  align="center">
 <a href="https://github.com/Ankit222002">https://github.com/Ankit222002</a>
